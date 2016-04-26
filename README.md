@@ -1,4 +1,4 @@
-# role_sepe
+# moodle-role_sepe
 Rol SEPE para moodle
 
 Este rol permite el acceso del SEPE (Servicio Público de Empleo Estatal) a la plataforma moodle con derechos restringidos.
